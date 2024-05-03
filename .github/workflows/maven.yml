@@ -33,6 +33,5 @@ jobs:
         dockerfile: Dockerfile
         username: khajahamid
         password: habbebamajji
-        password: habeebamaaji 
-
+       
    
